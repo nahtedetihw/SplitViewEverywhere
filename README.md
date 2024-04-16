@@ -9,7 +9,7 @@ Watching Netflix while chatting on Discord was not possible before, now it is.
 
 There are no options to configure.
 
-<video src="https://github.com/nahtedetihw/SplitViewEverywhere/SplitViewEverywhereFinal.mp4" muted loop autoplay></video>
+https://github.com/nahtedetihw/SplitViewEverywhere/assets/41249541/5675be19-06b1-4f6a-a720-536fa6c943e1
 
 ### Open Source
 [Github Link](https://github.com/nahtedetihw/SplitViewEverywhere)
