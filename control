@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.splitvieweverywhere
+Name: SplitViewEverywhere
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable SplitView/SlideOver on unsupported apps on iPadOS!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends:  
