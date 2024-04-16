@@ -1,4 +1,4 @@
-![download](https://i.ibb.co/VDDzgbn/Close-All-Banner.png)
+![download](https://i.ibb.co/gtpf74S/SVEVID.png)
 
 # SplitViewEverywhere
 ## Enable SplitView/SlideOver on unsupported apps on iPadOS!
